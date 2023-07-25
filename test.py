@@ -1,1 +1,4 @@
-def 
+def var():
+    print("Hello");
+
+var()
